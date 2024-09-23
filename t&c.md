@@ -1,6 +1,6 @@
-Terms and Conditions
+Terms and Conditions:
 
-Last updated on 16 July 2024
+Last updated on 23/09/2024.
 
 For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean Mahesh S, whose registered/operational office is Bera ram sagar, Chawandiya, Rajasthan 306305, India. "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
 
@@ -48,6 +48,8 @@ We accept the following forms of payment:
 
 We may change prices at any time.
 
+No refunds on Crypto Currency, PayPal.
+
 4. SUBSCRIPTIONS
 
 Billing and Renewal
@@ -56,7 +58,7 @@ Subscriptions are not renewed automatically, once the subscription has expired u
 
 Cancellation
 
-All purchases are non-refundable. We do not cancel ongoing subscription. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at contact@dronebots.in.
+All purchases are non-refundable. We do not cancel ongoing subscription. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please contact t.me/annihilatorrrr.
 
 Fee Changes
 
@@ -126,7 +128,7 @@ We reserve the right, but not the obligation, to:
 
 9. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: http://www.dronebots.in/privacy.By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in India. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in India, then through your continued use of the Services, you are transferring your data to India, and you expressly consent to have your data transferred to and processed in India. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S.
+We care about data privacy and security. Please review our Privacy Policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in India. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in India, then through your continued use of the Services, you are transferring your data to India, and you expressly consent to have your data transferred to and processed in India. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S.
 Children's Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Services as quickly as is reasonably practical.
 
 10. TERM AND TERMINATION
