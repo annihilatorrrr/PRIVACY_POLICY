@@ -1,5 +1,7 @@
 Terms and Conditions:
 
+Applied to all the bots listed on t.me/TGBotsGallery/2 and services provided by @annihilatorrrr
+
 Last updated on 23/09/2024.
 
 For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean Mahesh S, whose registered/operational office is Bera ram sagar, Chawandiya, Rajasthan 306305, India. "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
