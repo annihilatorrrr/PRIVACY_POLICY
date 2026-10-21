@@ -45,8 +45,6 @@ If you provide any information that is untrue, inaccurate, not current, or incom
 
 We accept the following modes of payments:
 - ﻿﻿UPI
-- ﻿﻿PayPal
-- Github Sponsorship/ One time payment
 - ﻿﻿Crypto Currency (USDT Only)
 
 We may change prices at any time on our own will.
@@ -67,7 +65,7 @@ We may, from time to time, make changes to the subscription fee and will communi
 
 Refunds:
 
-Services/ Subscription may be stopped/ unavailable if any unwanted interruption appears without any notice and there shall be No refunds or partial refunds based on usage on these modes of payments: Crypto Currency (if any Gas fee is applicable), PayPal, Github Sponsorship/ One time payment.
+Services/ Subscription may be stopped/ unavailable if any unwanted interruption appears without any notice and there shall be No refunds or partial refunds based on usage on these modes of payments: UPI (With Transaction fee 10% - 20%).
 
 5. PROHIBITED ACTIVITIES:
 
