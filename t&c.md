@@ -1,8 +1,10 @@
-Terms and Conditions:
+**Terms and Conditions:**
 
-Applied to all the bots listed on t.me/TGBotsGallery/2 and services provided by https://t.me/annihilatorrrr
+**Applied to all the bots listed on t.me/TGBotsGallery/2 and services provided by https://t.me/annihilatorrrr**
 
-Last updated on 15/07/2025.
+**Addition Terms and Conditions mentioned in https://t.me/SagiriNews/981**
+
+**Last updated on 21/10/2026.**
 
 For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean https://t.me/annihilatorrrr, whose registered/operational workshop/Office is on Telegram only. "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
 
